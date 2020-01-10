@@ -3,7 +3,7 @@ The repository is meant for first level of recursive problems like:
 1. Euclid's algorithm for gcd of two numbers num1 and num2
 2. Factorial of a nunber num
 3. A number num1 raised to power another number num2
-4. First num1 terms of Fibonacci sequence.
+4. First num terms of Fibonacci sequence.
 
 You are expected to create four functions for these problems in a single cpp file.
 
